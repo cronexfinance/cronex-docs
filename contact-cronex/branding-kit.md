@@ -1,7 +1,3 @@
----
-description: Featuring us? Use our branding kit
----
-
 # Branding Kit
 
 Media & related parties can use our Logo Kit for branding purposes. The kit contains a light & dark version of our logos for various usage.

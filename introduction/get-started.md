@@ -1,7 +1,3 @@
----
-description: Prepare yourselves and get started on CRONEX.Finance
----
-
 # Get Started
 
 To get started on CRONEX, the first thing you'll need is to set up a wallet that supports Cronos Chain (CRO). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.

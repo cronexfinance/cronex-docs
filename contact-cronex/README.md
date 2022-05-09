@@ -1,7 +1,3 @@
----
-description: Use the links below to contact us
----
-
 # Contact CRONEX
 
 Users can contact the CRONEX Team through any of our social medias. Leave a message or contact an Admin directly.

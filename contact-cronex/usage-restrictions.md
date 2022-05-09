@@ -1,7 +1,3 @@
----
-description: Usage of CRONEX.Finance is restricted in the following locations
----
-
 # Usage Restrictions
 
 Persons located in or residents of the following list or any other jurisdiction in which it is prohibited from using any of the services offered on the CRONEX.Finance website, including IFO, (the ”Prohibited Jurisdictions”) are not permitted to make use of these services.&#x20;

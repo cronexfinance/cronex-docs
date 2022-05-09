@@ -1,7 +1,3 @@
----
-description: Adding the Cronos Chain to your Metamask Wallet
----
-
 # Setup Metamask Wallet
 
 If you are using the Metamask wallet, you will need to add the Cronos chain manually to interact with the dApps on Cronos. You can use this guide for the mobile or Chrome extension version of Metamask.

@@ -2,9 +2,13 @@
 description: CRONEX.Finance is an investor-focused AMM DEX on the Cronos Chain.
 ---
 
-# CRONEX.Finance
+# Introduction
 
 ![CRONEX.Finance](.gitbook/assets/opt2.png)
+
+Welcome to the **CRONEX** docs.
+
+The pages here contain conceptual and technical documentation of the CRONEX protocol.
 
 **CRONEX.Finance** aims to fill the unfulfilled requirement of a smart, secure and safe decentralized exchange on the Cronos Chain while ensuring easy access and fast trading.&#x20;
 
