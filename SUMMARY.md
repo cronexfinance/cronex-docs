@@ -3,16 +3,32 @@
 * [Introduction](README.md)
   * [Get Started](introduction/get-started.md)
   * [Setup Metamask Wallet](introduction/setup-metamask-wallet.md)
-* [CRONEX Protocol](cronex-protocol/README.md)
-  * [Ecosystem Participants](cronex-protocol/ecosystem-participants.md)
-  * [Smart Contracts](cronex-protocol/smart-contracts.md)
-  * [Glossary](cronex-protocol/glossary.md)
-* [CRONEX Swap Concepts](cronex-swap-concepts/README.md)
-  * [Liquidity Pools](cronex-swap-concepts/liquidity-pools.md)
-  * [Fees](cronex-swap-concepts/fees.md)
-  * [Pricing](cronex-swap-concepts/pricing.md)
-* [Contact CRONEX](contact-cronex/README.md)
-  * [Customer Support](contact-cronex/customer-support.md)
-  * [Branding Kit](contact-cronex/branding-kit.md)
-  * [Usage Restrictions](contact-cronex/usage-restrictions.md)
-  * [Risk Disclaimer](contact-cronex/risk-disclaimer.md)
+
+## CRONEX Dex Swap
+
+* [CRONEX Protocol](cronex-dex-swap/cronex-protocol/README.md)
+  * [Ecosystem Participants](cronex-dex-swap/cronex-protocol/ecosystem-participants.md)
+  * [Smart Contracts](cronex-dex-swap/cronex-protocol/smart-contracts.md)
+* [CRONEX Swap Concepts](cronex-dex-swap/cronex-swap-concepts/README.md)
+  * [Liquidity Pools](cronex-dex-swap/cronex-swap-concepts/liquidity-pools.md)
+  * [Fees](cronex-dex-swap/cronex-swap-concepts/fees.md)
+  * [Pricing](cronex-dex-swap/cronex-swap-concepts/pricing.md)
+* [Glossary](cronex-dex-swap/glossary.md)
+
+## CYCLONE Money
+
+* [Introduction to CYCLONE](cyclone-money/introduction-to-cyclone.md)
+* [How does CYCLONE work?](cyclone-money/how-does-cyclone-work.md)
+* [Improving Privacy on CYCLONE](cyclone-money/improving-privacy-on-cyclone.md)
+* [Depositing & Withdrawing](cyclone-money/depositing-and-withdrawing.md)
+* [CYCLONE Money Contracts](cyclone-money/cyclone-money-contracts.md)
+* [CYCLONE Money Fees](cyclone-money/cyclone-money-fees.md)
+* [FAQs](cyclone-money/faqs.md)
+
+## Links & More
+
+* [Contact CRONEX](links-and-more/contact-cronex.md)
+* [Risk Disclaimer](links-and-more/risk-disclaimer.md)
+* [Usage Restrictions](links-and-more/usage-restrictions.md)
+* [Branding Kit](links-and-more/branding-kit.md)
+* [Customer Support](links-and-more/customer-support.md)

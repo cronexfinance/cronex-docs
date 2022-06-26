@@ -1,5 +1,5 @@
 ---
-description: CRONEX.Finance is an investor-focused AMM DEX on the Cronos Chain.
+description: CRONEX.Finance is an investor-focused Ecosystem on the Cronos Chain.
 ---
 
 # Introduction

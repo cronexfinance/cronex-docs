@@ -9,7 +9,7 @@ If you are using the Metamask wallet, you will need to add the Cronos chain manu
 {% hint style="success" %}
 **Network Name:** Cronos
 
-**New RPC URL:** [https://evm-cronos.crypto.org](https://evm-cronos.crypto.org)
+**New RPC URL:** [https://evm-cronos.crypto.org](https://evm-cronos.crypto.org/)
 
 **ChainID:** 25
 
